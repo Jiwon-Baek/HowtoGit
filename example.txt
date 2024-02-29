@@ -1,0 +1,15 @@
+abcdefg
+
+
+
+<<<<<<< HEAD
+hijklm
+=======
+
+
+
+
+
+
+jjjjjjj
+>>>>>>> fault
