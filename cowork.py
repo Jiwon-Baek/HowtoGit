@@ -4,10 +4,6 @@ Please feel free to add!
 """
 
 
-def JiwonBaek():
-    print('Hello this is Jiwon Baek')
-    return 0
-
-
-
+def my_function():
+    print('Hello this is PEL')
 
